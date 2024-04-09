@@ -14,5 +14,9 @@ public class App
     }
     @Test()
     public void testCreateUser() {
+
+        {
+            System.out.println( "Hello World!" );
+        }
     }
 }
